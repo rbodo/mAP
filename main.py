@@ -553,7 +553,7 @@ with open(results_files_path + "/results.txt", 'w') as results_file:
         cv2.imshow("Animation", img)
         cv2.waitKey(20) # show image for 20 ms
         # save image to results
-        output_img_path = results_files_path + "/images/" + class_name + "_prediction" + str(idx) + ".jpg"
+        output_img_path = results_files_path + "/images/" + os.path.splitext(ground_truth_img[0])[0] + ".jpg"
         cv2.imwrite(output_img_path, img)
 
     #print(tp)

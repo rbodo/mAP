@@ -1,26 +1,26 @@
 person
-n02834778 
-n02958343 
-n03790512 
-n02691156 
-n02924116 
-n04468005
+bicycle 
+car 
+motorcycle 
+airplane 
+bus 
+train
 truck 
-n04530566 
-traffic_light 
-fire_hydrant 
-stop_sign
-parking_meter 
+boat 
+traffic light 
+fire hydrant 
+stop sign
+parking meter 
 bench 
-n01503061 
-n02121808 
-n02084071 
-n02374451 
-n02411705
-n02402425
-n02503517 
-n02131653 
-n02391049 
+bird 
+cat 
+dog 
+horse 
+sheep
+cow
+elephant 
+bear 
+zebra 
 giraffe 
 backpack 
 umbrella
@@ -30,15 +30,15 @@ suitcase
 frisbee 
 skis 
 snowboard
-sports_ball 
+sports ball 
 kite 
-baseball_bat 
-baseball_glove 
+baseball bat 
+baseball glove 
 skateboard
 surfboard 
-tennis_racket 
+tennis racket 
 bottle 
-wine_glass 
+wine glass 
 cup 
 fork
 knife 
@@ -50,22 +50,22 @@ sandwich
 orange
 broccoli 
 carrot 
-hot_dog 
+hot dog 
 pizza 
 donut 
 cake 
 chair
 couch 
-potted_plant 
+potted plant 
 bed 
-dining_table 
+dining table 
 toilet 
 tv
 laptop 
 mouse 
 remote 
 keyboard 
-cell_phone 
+cell phone 
 microwave
 oven 
 toaster 
@@ -75,6 +75,6 @@ book
 clock 
 vase
 scissors 
-teddy_bear 
-hair_drier 
+teddy bear 
+hair drier 
 toothbrush
